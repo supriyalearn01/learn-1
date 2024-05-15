@@ -1,0 +1,5 @@
+C:\Users\supri\source\repos\Learn01\learn-1\Learn01Sol\Learn01\bin\Release\netcoreapp3.1\publish\Learn01.exe
+C:\Users\supri\source\repos\Learn01\learn-1\Learn01Sol\Learn01\bin\Release\netcoreapp3.1\publish\Learn01.dll
+C:\Users\supri\source\repos\Learn01\learn-1\Learn01Sol\Learn01\bin\Release\netcoreapp3.1\publish\Learn01.deps.json
+C:\Users\supri\source\repos\Learn01\learn-1\Learn01Sol\Learn01\bin\Release\netcoreapp3.1\publish\Learn01.runtimeconfig.json
+C:\Users\supri\source\repos\Learn01\learn-1\Learn01Sol\Learn01\bin\Release\netcoreapp3.1\publish\Learn01.pdb

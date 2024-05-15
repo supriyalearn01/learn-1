@@ -1,4 +1,7 @@
-﻿using System;
+﻿using Learn01._1.Constant;
+using Learn01._2.MultipleVariables;
+using Learn01._3.TypeCasting;
+using System;
 
 namespace Learn01
 {
@@ -6,7 +9,14 @@ namespace Learn01
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            //ConstantExample.Build();
+
+            //MultipleVariablesExample.Build();
+
+            //TypeCastingExample.ExplicitCasting();
+
+            TypeCastingExample.TypeConversionMethods();
+
         }
     }
 }
